@@ -16,7 +16,6 @@ exports.execute = async (client, message, args) => {
       member.roles.add(config.vip) 
       message.reply(`${member} Üyesinde Başariyla Vip Rolü Verildi`).then(msg => {setTimeout(() => msg.delete(), 5000);});
   }
-  member.roles.add(config.vip).catch(e => {  })
 }   
 exports.conf = {
   command: "vip",
