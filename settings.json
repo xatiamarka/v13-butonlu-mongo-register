@@ -1,0 +1,65 @@
+{
+    "token": "TOKEN",
+    "url": "MONGO URL",
+    "Guild": "SERVER ID",
+    "voice": "VOICE ID",
+    "prefix": "PREFIX",
+    "owners": "DEVELOPER ID",
+    "yaşsınırı": "AGE LIMIT",
+
+
+    "footer": "Developed by Chaos",
+    "footer2": "Developed by Chaos?",
+    "status": "dnd",
+
+
+    "tagsız": "TAGSIZ TAG",
+    "tag": "TAGLI TAG",
+    "kayıtsızverileri": "İsim ・ Yaş",
+
+
+    "sifir": "",
+    "bir": "",
+    "iki": "",
+    "uc": "",
+    "dort": "",
+    "bes": "",
+    "alti": "",
+    "yedi": "",
+    "sekiz": "",
+    "dokuz": "",
+
+    "hg1": "",
+    "hg2": "",
+    "hg3": "",
+    "hg4": "",
+    "hg5": "",
+    "hg6": "",
+    "hg7": "",
+
+    "unregister": "UNREG ROL",
+    "registery": "REGISTER ROL",
+    "family": "TAG ROL",
+    "man": "ERKEK ROL",
+    "man2": "ERKEK ROL 2",
+    "woman": "KADIN ROL",
+    "woman2": "KADIN ROL 2",
+
+
+    "Booster": "BOOST ROL",
+    "Ceza": "ŞÜPHELİ ROL",
+    "log": "LOG",
+    "vip": "VIP ROL",
+    "hg": "REGISTER KANAL",
+    "rolalma": "EMBED ROL ALMA KANALI",
+
+
+    "kurallar": "KURALLAR KANALI",
+    "süphelilog": "SUPHELI KANALI",
+    "chatChannel": "CHAT KANALI",
+
+    "Onelevelreg": "GOREV ROL1",
+    "Twolevelreg": "GOREV ROL2",
+    "OnelevelTag": "GOREV ROL3",
+    "TwolevelTag": "GOREV ROL4"
+}
