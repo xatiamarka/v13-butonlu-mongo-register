@@ -14,6 +14,8 @@ kurabilmeniz için bilgisayarınız'da yönetici ile cmd çalıştırın oraya *
 
 register hg mesajın'daki gifi yapmak isterseniz: <a href="https://auto.creavite.co/" target="_blank">Buradan</a> giderek yapmanız yeterli olacaktır
 
+daha detaylı anlatım için forum adresimizi ziyaret edebilirsiniz. Bu konunun devamı için <a href="https://www.rageturk.com/threads/discord-v13-butonlu-public-register-botu.36/" target="_blank">BURAYA</a> tıklayın.
+
 # GÖRSELLER
 
 ISTERSENIZ EMBED OLARAK 
