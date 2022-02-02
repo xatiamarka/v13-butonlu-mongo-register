@@ -11,6 +11,7 @@ exports.execute = async (client, message, args) => {
   .setColor("RANDOM")
   let Db = await TaglıData.findOne({ GuildId: message.guild.id, Member: message.member.id })
   let Dbtwo = await OwnerData.findOne({ GuildId: message.guild.id, Member: message.member.id })
+   if(!member) return message.reply("Kimin verilerine bakacağız ?").then(msg => {setTimeout(() => msg.delete(), 5000);});
     if(Db === null ) {
       let comp = 15;
       message.channel.send({ embeds :[embed.setDescription(`${member} Mevcut İlerleminiz \`${Dbtwo.TotalReg}\` Kayıt Durumundasiniz 
