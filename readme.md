@@ -3,9 +3,16 @@
 # Yapmanız gereken adımlar
 
 - settings.json dosyasının içindeki idleri doldurmanız gerekiyor.
-- emoji paketleri yüklüdür .emojileriyükle komutunu kullanarak bütün gerekli emojileri yükleyebilirsiniz.
-- eğer olur'da sunucudan emojileri silerim diye (emoji paketi) adında klasörün içerisine gerekli emojileri bırakırım yinede :*
-- son olarak botun modüllerini [yarn install] yazarak yükleyebilirsiniz.
+- 
+- emoji paketleri yüklüdür **.emojileriyükle** komutunu kullanarak bütün gerekli emojileri yükleyebilirsiniz.
+- 
+- son olarak botun modüllerini **[yarn install]** yazarak yükleyebilirsiniz.
+- 
+- eğer **yarn install** kuramassanız bilin ki bilgisayarınız'da veya vds'inizde yarn global kurulu değildir.
+
+kurabilmeniz için bilgisayarınız'da yönetici ile cmd çalıştırın oraya **[npm install --global yarn]** yazarak modülü yükleyin.
+
+register hg mesajın'daki gifi yapmak isterseniz: <a href="https://auto.creavite.co/" target="_blank">Buradan</a> giderek yapmanız yeterli olacaktır
 
 # GÖRSELLER
 
